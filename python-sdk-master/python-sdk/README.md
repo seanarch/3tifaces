@@ -1,3 +1,5 @@
+###ALL FILES AND README ARE BUILT OFF OF https://github.com/FacePlusPlus###
+
 # FacePlusPlus Python SDK
 
 This is the Face++ python SDK suite. Note that python2.7 is required.
