@@ -1,4 +1,4 @@
-###ALL FILES AND README ARE BUILT OFF OF https://github.com/FacePlusPlus###
+###ALL FILES AND README ARE BUILT OFF OF https://github.com/FacePlusPlus ###
 
 # FacePlusPlus Python SDK
 
